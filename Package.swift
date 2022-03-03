@@ -18,7 +18,7 @@ let package = Package(
         .target(
             name: "MaterialComponents",
             dependencies: [],
-            path: "MaterialComponents",
+            path: "ActionSheet",
             sources: ["components"]
         )
 //        .testTarget(
