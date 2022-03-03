@@ -17,6 +17,7 @@ let package = Package(
     targets: [
         .target(
             name: "MaterialComponents",
+            sources: ["components"],
             dependencies: []),
 //        .testTarget(
 //            name: "MaterialComponentsTests",
